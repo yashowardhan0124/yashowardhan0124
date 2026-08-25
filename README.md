@@ -31,27 +31,6 @@ I'm a final-year **B.Tech student in Artificial Intelligence & Analytics**, pass
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/YOUR-USERNAME/PROJECT-ONE">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=PROJECT-ONE&theme=default" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/YOUR-USERNAME/PROJECT-TWO">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=PROJECT-TWO&theme=default" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-> Replace `YOUR-USERNAME`, `PROJECT-ONE`, and `PROJECT-TWO` with your actual repo names — this auto-pulls stars/forks/description from GitHub.
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -105,11 +84,11 @@ I'm a final-year **B.Tech student in Artificial Intelligence & Analytics**, pass
 
 ---
 
-## 📫 Connect With Me
+## 🐍 Contribution Snake
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sheteyashowardhan980@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR-GITHUB-USERNAME)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/github-contribution-grid-snake.svg" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
